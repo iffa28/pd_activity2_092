@@ -17,6 +17,8 @@ int main() {
 	float panjang, lebar, tinggi, jejari, alas;
 	int pilihan;
 
+	do
+	{ 
 	cout << "===================" << endl;
 	cout << "======M E N U======" << endl;
 	cout << "===================" << endl;
@@ -33,10 +35,10 @@ int main() {
 
 
 
-	system("cls");
+	
 
-	do
-	{
+	
+	
 
 
 		switch (pilihan)
