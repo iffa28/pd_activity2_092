@@ -73,6 +73,6 @@ int main() {
 			break;
 		}
 
-	} while (pilihan! = 4);
+	} while (pilihan!= 4);
 
 }
